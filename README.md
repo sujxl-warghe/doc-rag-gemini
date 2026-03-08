@@ -151,21 +151,3 @@ http://localhost:8501
 * Streaming responses
 
 ---
-
-# 👨‍💻 Author
-
-**Sujal Warghe**
-
-AI Developer | Python | Generative AI | Automation
-
-GitHub:
-
-```
-https://github.com/your-username
-```
-
----
-
-# ⭐ Support
-
-If you like this project, consider giving it a **star ⭐ on GitHub**.
